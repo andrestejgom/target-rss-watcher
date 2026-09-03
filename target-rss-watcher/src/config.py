@@ -85,7 +85,6 @@ FEED_DESCRIPTION = (
     "with or endorsed by the European Central Bank; the ECB remains the "
     "authoritative source at all times."
 )
-# TODO: replace with your actual GitHub Pages URL once the repo is created, e.g.
-# "https://<your-username>.github.io/<repo-name>/feed.xml"
-FEED_SELF_URL = "https://<your-username>.github.io/<repo-name>/feed.xml"
+
+FEED_SELF_URL = "https://andrestejgom.github.io/target-rss-watcher/feed.xml"
 FEED_SITE_URL = "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/html/index.en.html"
