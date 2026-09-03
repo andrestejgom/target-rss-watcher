@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>TARGET Professional Use – Document Updates</title>
+<link>https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/html/index.en.html</link>
+<description>Unofficial synthetic RSS feed watching the ECB's TARGET Professional Use documentation pages for new, revised, replaced or removed documents. Not affiliated with the ECB.</description>
+<atom:link href="https://&lt;your-username&gt;.github.io/&lt;repo-name&gt;/feed.xml" rel="self" type="application/rss+xml" />
+<language>en</language>
+<generator>target-rss-watcher</generator>
+</channel>
+</rss>
